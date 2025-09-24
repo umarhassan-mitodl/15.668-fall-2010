@@ -1,0 +1,55 @@
+{
+  "term": "Fall",
+  "year": "2010",
+  "level": [
+    "Undergraduate"
+  ],
+  "topics": [
+    [
+      "Business",
+      "Organizational Behavior"
+    ],
+    [
+      "Business",
+      "Management"
+    ],
+    [
+      "Business",
+      "Leadership"
+    ],
+    [
+      "Business",
+      "Industrial Relations and Human Resource Management"
+    ]
+  ],
+  "legacy_uid": "af48d037-88b4-ede9-53a1-e385fef289f3",
+  "instructors": {
+    "content": [
+      "efb69e94-eaea-4767-5519-415b4e80043a"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "ef68e6ed-f73d-5b10-2c00-4d27c1bebc4f",
+    "website": "15-668-people-and-organizations-fall-2010"
+  },
+  "course_title": "People and Organizations",
+  "course_description": "_15.668 People and Organizations_ examines the historical evolution and current human and organizational contexts in which scientists, engineers and other professionals work. It outlines today's major challenges facing the management profession. The course uses interactive exercises, simulations and problems to develop critical skills in negotiations, teamwork and leadership. Students will be introduced to concepts and tools to analyze work and leadership experiences in optional undergraduate fieldwork projects.\n",
+  "department_numbers": [
+    "15"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "15.668",
+  "course_image_thumbnail": {
+    "content": "f177ac41-bf2b-a54a-c2f8-23f20793d6b7",
+    "website": "15-668-people-and-organizations-fall-2010"
+  },
+  "learning_resource_types": [
+    "Lecture Notes",
+    "Written Assignments"
+  ],
+  "site_uid": "a2704ca1-6180-4919-be76-5d9d8da4acec",
+  "site_short_id": "15.668-fall-2010",
+  "site_url_path": "courses/15-668-people-and-organizations-fall-2010",
+  "title": "Course Metadata"
+}

@@ -191,7 +191,7 @@ Applying the three lenses: BP and lessons from the Gulf Coast disaster
 {{< tdopen >}}
 
 
-60 minutes. "{{% resource_link "3e620786-c0e9-48d1-81dc-6476502fdd25" "Blowout: The Deepwater Horizon Disaster" %}}." CBS News.
+60 minutes. "[Blowout: The Deepwater Horizon Disaster](https://www.cbsnews.com/news/blowout-the-deepwater-horizon-disaster-16-05-2010/)." CBS News.
 
 
 {{< tdclose >}}
@@ -309,9 +309,9 @@ Bennis, Warren G., and Robert J. Thomas. "Excerpts from Geeks & Geezers." Module
 
 Maathai, Wangari. "The History of the Green Belt Movement." Chapter 2 in _The Green Belt Movement_. New York, NY: Lantern Books, 2003. ISBN: 9781590560402.
 
-"{{% resource_link "2e158ddd-0689-4a19-b292-47225cf83fc8" "The Nobel Peace Prize 2004: Wangari Maathai" %}}." Nobelprize.org.
+"[The Nobel Peace Prize 2004: Wangari Maathai](https://www.nobelprize.org/prizes/peace/2004/maathai/facts/)." Nobelprize.org.
 
-"{{% resource_link "5ee0de26-96a3-45a0-8f95-e97203d92c4f" "Wangari Maathai: Nobel Lecture" %}}." Nobelprize.org.
+"[Wangari Maathai: Nobel Lecture](http://nobelprize.org/nobel_prizes/peace/laureates/2004/maathai-lecture-text.html)." Nobelprize.org.
 
 
 {{< tdclose >}}
@@ -393,7 +393,7 @@ Evan, William M., and R. Edward Freeman. "A Stakeholder Theory of the Modern Cor
 
 Stout, Lynn A. "Bad and Not-So-Bad Arguments for Shareholder Primacy." _Southern California Law Review_ 75, (2002): 1189-2002.
 
-{{% resource_link "df943122-e122-47f3-8aa4-31feb4e7d90d" "![Buy at MIT Press](/images/mp_logo.gif)" %}} Locke, Richard. "The Promise and Perils of Globalization: The Case of Nike." In {{% resource_link "df943122-e122-47f3-8aa4-31feb4e7d90d" "_Management: Inventing and Delivering its Future_" %}}. Edited by Thomas Kochan and Richard Schmalensee. Cambridge, MA: The MIT Press, 2003. ISBN: 9780262112826.
+[![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/9780262112826) Locke, Richard. "The Promise and Perils of Globalization: The Case of Nike." In [_Management: Inventing and Delivering its Future_](https://mitpress.mit.edu/9780262112826). Edited by Thomas Kochan and Richard Schmalensee. Cambridge, MA: The MIT Press, 2003. ISBN: 9780262112826.
 
 Locke, Richard, Thomas Kochan, Fei Qin, and Moinca Romis. "Beyond Corporate Codes of Conduct: Work Organization and Labor Standards at Nike's Suppliers." _International Labour Review_ 146, no. 1-2 (2007): 21-37.
 
